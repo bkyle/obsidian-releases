@@ -334,5 +334,12 @@
         "repo": "chad-bennett/al-dente-obsidian-theme",
         "screenshot": "aldente-screenshot.png",
         "compatibleModes": ["light"]
+    },
+    {
+        "name": "Plex",
+        "author": "bkyle",
+        "repo": "bkyle/obsidian-plex-theme",
+        "screenshot": "Note-Dark.png",
+        "compatibleModes": ["dark", "light"]
     }
 ]
